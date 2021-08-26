@@ -1,6 +1,5 @@
 # DESeq2 analysis script for prostate BPH v normal prostate
 # note: the graphs produced by this script are not in the paper
-# this code produces figures 8 and 9 in my dissertation
 
 
 library(BiocManager)

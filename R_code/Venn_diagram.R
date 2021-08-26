@@ -1,4 +1,4 @@
-# create venn diagram seen in figure 17
+# create venn diagram seen in figure 3
 # numbers obtained from python code (see python_code/venn_diagram folder)
 
 library(VennDiagram)
