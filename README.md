@@ -1,11 +1,9 @@
 IJMS-PCa-Publication-2021
 ========================================
-This package is built as a part of the CSC8391: Research project
-for Bioinformatics module
+This repo contains all code used in the "A review of prostate organogenesis and a role for iPSC-derived prostate organoids to study prostate development and disease" publication.
 
 Transcriptomic analysis of key drivers of prostate cancer using RNA-seq data
 ----------------------
-This repo contains all code used in the IJMS publication
 
 MSC project supervisors: Dr A. Buskin and Professor R. Heer
 
